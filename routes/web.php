@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get('/belajar-git', function () {
     return 'Saya sedang belajar Git dengan Laravel!';
 });
+
+Route::get('/tentang-saya', function () {
+    return 'Halo, nama saya Azizah.';
+});
