@@ -19,5 +19,5 @@ Route::get('/home-belajar', function () {
 });
 
 Route::get('/profile', function () {
-    return 'Profile dari MAIN';
+    return 'Profile saya - dikembangkan menggunakan Laravel!';
 });
