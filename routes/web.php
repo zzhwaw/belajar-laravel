@@ -17,3 +17,7 @@ Route::get('/tentang-saya', function () {
 Route::get('/home-belajar', function () {
     return 'Selamat datang di halaman belajar Laravel!';
 });
+
+Route::get('/profile', function () {
+    return 'Profile dari MAIN';
+});
