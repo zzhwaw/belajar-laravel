@@ -13,3 +13,7 @@ Route::get('/belajar-git', function () {
 Route::get('/tentang-saya', function () {
     return 'Halo, nama saya Azizah.';
 });
+
+Route::get('/home-belajar', function () {
+    return 'Selamat datang di halaman belajar Laravel!';
+});
