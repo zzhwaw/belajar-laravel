@@ -29,3 +29,7 @@ Route::get('/dashboard', function () {
 Route::get('/rahasia', function () {
     return 'Ini route yang sebenarnya tidak diperlukan.';
 });
+
+Route::get('/belajar-git-lanjutan', function () {
+    return 'Hari ini saya belajar Git Merge, Rebase, dan Conflict Resolution!';
+});
