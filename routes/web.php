@@ -21,3 +21,7 @@ Route::get('/home-belajar', function () {
 Route::get('/profile', function () {
     return 'Profile saya - dikembangkan menggunakan Laravel!';
 });
+
+Route::get('/dashboard', function () {
+    return 'Dashboard sedang dalam pengembangan...';
+});
