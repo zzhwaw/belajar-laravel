@@ -25,3 +25,7 @@ Route::get('/profile', function () {
 Route::get('/dashboard', function () {
     return 'Dashboard sedang dalam pengembangan...';
 });
+
+Route::get('/rahasia', function () {
+    return 'Ini route yang sebenarnya tidak diperlukan.';
+});
