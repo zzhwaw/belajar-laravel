@@ -33,3 +33,8 @@ Route::get('/rahasia', function () {
 Route::get('/belajar-git-lanjutan', function () {
     return 'Hari ini saya belajar Git Merge, Rebase, dan Conflict Resolution!';
 });
+
+
+Route::get('/contact', function () {
+    return view('contact');
+});
