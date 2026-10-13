@@ -11,6 +11,10 @@
 
     <p>Halo! Saya mahasiswa Teknik Informatika.</p>
     <p>Saya sedang belajar menjadi Full Stack Developer.</p>
+    <p>Saya sedang berlatih menggunakan Git untuk mengelola proyek.</p>
+    <p>jijahhh sukses jadi soft developer.</p>
+    <p>Saya sedang belajar memahami alur kerja Git.</p>
+
 
     <h2>Skill yang Sedang Dipelajari</h2>
     <ul>
