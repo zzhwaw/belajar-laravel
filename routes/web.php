@@ -47,3 +47,7 @@ Route::get('/about', function () {
 Route::get('/skills', function () {
     return view('skills');
 });
+
+Route::get('/projects', function () {
+    return view('projects');
+});
