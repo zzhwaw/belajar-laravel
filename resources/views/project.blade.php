@@ -98,6 +98,22 @@
                 <span class="tag">Full Stack</span>
             </article>
         </section>
+        
+        <section class="card">
+            <h2>About This Portfolio</h2>
+            <p>
+                A collection of projects I'm building while learning
+                full-stack development.
+            </p>
+
+            <h2>Tech Stack</h2>
+            <span class="tag">HTML</span>
+            <span class="tag">CSS</span>
+            <span class="tag">JavaScript</span>
+            <span class="tag">PHP</span>
+            <span class="tag">Laravel</span>
+            <span class="tag">MySQL</span>
+        </section>
     </main>
 </body>
 </html>
