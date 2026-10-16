@@ -61,6 +61,21 @@
             border-radius: 6px;
             font-size: 12px;
         }
+        .status-completed {
+        background-color: #dcfce7;
+        color: #166534;
+        border: 1px solid #86efac;
+        }.status-progress {
+            background-color: #dbeafe;
+            color: #1d4ed8;
+            border: 1px solid #93c5fd;
+        }
+
+        .status-planned {
+            background-color: #f3f4f6;
+            color: #374151;
+            border: 1px solid #d1d5db;
+        }
     </style>
 </head>
 <body>
@@ -78,6 +93,7 @@
                     peserta didik baru.
                 </p>
                 <span class="tag">HTML & CSS</span>
+                <span class="tag status-completed">Completed</span>
             </article>
 
             <article class="card">
@@ -87,6 +103,7 @@
                     yang sedang saya pelajari.
                 </p>
                 <span class="tag">Laravel</span>
+                <span class="tag status-progress">In Progress</span>
             </article>
 
             <article class="card">
@@ -96,6 +113,7 @@
                     aplikasi web dari frontend hingga backend.
                 </p>
                 <span class="tag">Full Stack</span>
+                <span class="tag status-planned">Planned</span>
             </article>
         </section>
         
