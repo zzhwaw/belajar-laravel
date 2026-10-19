@@ -84,6 +84,15 @@
         <p class="subtitle">
             Beberapa proyek yang sedang saya pelajari dan kembangkan.
         </p>
+            <section class="card project-overview">
+        <h2>Project Overview</h2>
+        <p>
+            This portfolio showcases my journey in learning
+            full-stack web development, from frontend design
+            to backend development and database management.
+        </p>
+        <p>Built with curiosity, practice, and continuous learning.</p>
+    </section>
 
         <section class="projects">
             <article class="card">
