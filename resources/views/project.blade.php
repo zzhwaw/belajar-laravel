@@ -76,6 +76,17 @@
             color: #374151;
             border: 1px solid #d1d5db;
         }
+        .project-link {
+            display: inline-block;
+            margin-top: 12px;
+            color: #2563eb;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .project-link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -102,6 +113,7 @@
                     peserta didik baru.
                 </p>
                 <span class="tag">HTML & CSS</span>
+                <a href="/tentang-saya" class="project-link">View Details →</a>
                 <span class="tag status-completed">Completed</span>
             </article>
 
