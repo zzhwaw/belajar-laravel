@@ -124,6 +124,7 @@
                 <p>
                     Halaman untuk menampilkan teknologi
                     yang sedang saya pelajari.
+                    halo saya juga bingung mau isi apa
                 </p>
                 <span class="tag">Laravel</span>
                 <span class="tag status-progress">In Progress</span>
