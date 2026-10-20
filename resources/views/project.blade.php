@@ -113,6 +113,8 @@
                     peserta didik baru.
                 </p>
                 <span class="tag">HTML & CSS</span>
+                <span class="tag category-frontend">Frontend</span>
+                <span class="tag category-backend">Backend</span>
                 <a href="/tentang-saya" class="project-link">View Details →</a>
                 <span class="tag status-completed">Completed</span>
             </article>
