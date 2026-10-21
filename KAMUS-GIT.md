@@ -16,10 +16,5 @@ Aplikasi untuk bermain bersama teman.
 
 ## Fitur
 - Landing page
-- Membuat room baru
-- Mengisi nickname pemain
-- Menghasilkan kode room
-
-## Fitur
-- Landing page
 - Membuat room dengan nickname
+- Persetujuan pemain oleh host
