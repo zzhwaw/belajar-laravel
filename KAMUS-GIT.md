@@ -9,3 +9,13 @@
 - `git stash list`: melihat daftar stash.
 - `git stash apply`: menerapkan kembali perubahan dari stash.
 - `git stash pop`: menerapkan perubahan sekaligus menghapus stash dari daftar jika berhasil.
+
+# Ramein
+
+Aplikasi untuk bermain bersama teman.
+
+## Fitur
+- Landing page
+- Membuat room baru
+- Mengisi nickname pemain
+- Menghasilkan kode room
