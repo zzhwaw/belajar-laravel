@@ -19,3 +19,7 @@ Aplikasi untuk bermain bersama teman.
 - Membuat room baru
 - Mengisi nickname pemain
 - Menghasilkan kode room
+
+## Fitur
+- Landing page
+- Membuat room dengan nickname
