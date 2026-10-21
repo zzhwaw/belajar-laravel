@@ -23,3 +23,6 @@ Aplikasi untuk bermain bersama teman.
 ## Fitur
 - Landing page
 - Membuat room dengan nickname
+## Fitur
+- Landing page
+- Bergabung ke room menggunakan kode
