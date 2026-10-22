@@ -20,7 +20,3 @@ Aplikasi untuk bermain bersama teman.
 - Bergabung ke room menggunakan kode
 - Persetujuan pemain oleh host
 
-## apa aja
-- jadi gini
-- apa yaa
-- halo semua hahah

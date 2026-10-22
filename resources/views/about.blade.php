@@ -14,6 +14,7 @@
     <p>Saya sedang berlatih menggunakan Git untuk mengelola proyek.</p>
     <p>jijahhh sukses jadi soft developer.</p>
     <p>Saya sedang belajar memahami alur kerja Git.</p>
+    <p></p>Saya sedang belajar memahami konsep MVC dalam pengembangan web.</p>
 
 
     <h2>Skill yang Sedang Dipelajari</h2>
@@ -22,6 +23,7 @@
         <li>JavaScript</li>
         <li>PHP dan Laravel</li>
         <li>SQL dan Git</li>
+        <li></li>Framework Frontend (Vue.js, React)</li>
     </ul>
 
     <a href="/">Kembali ke Beranda</a>
