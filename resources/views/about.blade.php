@@ -23,6 +23,7 @@
         <li>JavaScript</li>
         <li>PHP dan Laravel</li>
         <li>SQL dan Git</li>
+        <li></li>Framework Frontend (Vue.js, React)</li>
     </ul>
 
     <a href="/">Kembali ke Beranda</a>
