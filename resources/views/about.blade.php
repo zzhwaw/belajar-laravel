@@ -24,6 +24,7 @@
         <li>PHP dan Laravel</li>
         <li>SQL dan Git</li>
         <li></li>Framework Frontend (Vue.js, React)</li>
+        <li></li>Framework Backend (Node.js, Django)</li>
     </ul>
 
     <a href="/">Kembali ke Beranda</a>
