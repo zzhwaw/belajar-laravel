@@ -19,3 +19,5 @@ Aplikasi untuk bermain bersama teman.
 - Membuat room dengan nickname
 - Bergabung ke room menggunakan kode
 - Persetujuan pemain oleh host
+
+## hari saya gatau mau nagaapasdoaishdioasd
