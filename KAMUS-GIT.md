@@ -20,4 +20,3 @@ Aplikasi untuk bermain bersama teman.
 - Bergabung ke room menggunakan kode
 - Persetujuan pemain oleh host
 
-## hari saya gatau mau nagaapasdoaishdioasd
