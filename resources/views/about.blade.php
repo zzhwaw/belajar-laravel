@@ -22,6 +22,7 @@
         <li>JavaScript</li>
         <li>PHP dan Laravel</li>
         <li>SQL dan Git</li>
+        <li>apa aja </li>
     </ul>
 
     <a href="/">Kembali ke Beranda</a>
